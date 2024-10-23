@@ -1,7 +1,7 @@
 # 💫About Me :
 **Hi, my name is Tien and I am a professional Web Developer. I've 3 years of work experience in this field. My aim is to satisfy my clients through Excellent work. Frontend designing is my passion and my other skills are HTML5, CSS3, JAVASCRIPT, BOOTSTRAP4, MySql, PostgreSql, PHP, Tailwind CSS , React js, Vuejs, Angular, Nodejs and Material UI.**
 
-## 🌐 Work/Jobs
+## 🌐 Contact Me (Work/Jobs)
 
 [![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/tienshake)
 
