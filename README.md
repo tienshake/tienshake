@@ -9,6 +9,9 @@
 ## 🌐 Contact Me (Work/Jobs)
 
 [![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/tienshake?public_mode=true)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ti%E1%BA%BFn-tr%E1%BA%A7n-9991302a6/)
+
+https://www.linkedin.com/in/ti%E1%BA%BFn-tr%E1%BA%A7n-9991302a6/
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shake-tien-9991302a6)  -->
 
