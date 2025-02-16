@@ -1,5 +1,10 @@
 # 💫About Me :
-**Hi, my name is Tien and I am a professional Web Developer. I've 3 years of work experience in this field. My aim is to satisfy my clients through Excellent work. Frontend designing is my passion and my other skills are HTML5, CSS3, JAVASCRIPT, BOOTSTRAP4, MySql, PostgreSql, PHP, Tailwind CSS , React js, Vuejs, Angular, Nodejs and Material UI.**
+
+🚀 Full-Stack Developer | 3 Years Experience
+
+⚡ React • Nextjs • Angular • Vue • Node.js • PHP Laravel
+
+💻 Crafting exceptional digital experiences
 
 ## 🌐 Contact Me (Work/Jobs)
 
