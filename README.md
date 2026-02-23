@@ -1,6 +1,6 @@
 # 💫About Me :
 
-🚀 Full-Stack Developer | 3 Years Experience
+🚀 Full-Stack Developer
 
 ⚡ React • Nextjs • Angular • Vue • Node.js • PHP Laravel
 
